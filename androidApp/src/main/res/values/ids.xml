@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="counterText" type="id" />
+    <item name="incrementButton" type="id" />
+    <item name="decrementButton" type="id" />
+</resources>
